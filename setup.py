@@ -6,7 +6,7 @@ package_name = 'grasp_scripts'
 
 setup(
     name=package_name,
-    version='0.0.0',
+    version='1.0.0',
     packages=find_packages(exclude=['test']),
     data_files=[
         ('share/ament_index/resource_index/packages',
@@ -18,8 +18,8 @@ setup(
     zip_safe=True,
     maintainer='yuhsienc',
     maintainer_email='illusion.dark@gmail.com',
-    description='TODO: Package description',
-    license='TODO: License declaration',
+    description='This ROS2 node is designated as a script, which triggered by user then executes commands step by step.',
+    license='Apache-2.0',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [

@@ -13,7 +13,7 @@ This ROS2 node is designated as a script, which triggered by user then executes 
 ![GraspingScriptsSystemDiagram.drawio.png](./assets/GraspingScriptsSystemDiagram.drawio.png)
 
 
-## Dependency
+## Dependencies
 
 This ROS2 node cooperates with the following tools:
 1. [Universal Robots ROS2 Driver (humble branch) - github.com](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/tree/humble)
