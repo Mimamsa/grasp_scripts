@@ -76,5 +76,5 @@ ros2 service call /grasp_scripts/grasp_and_place_three_view std_srvs/srv/Trigger
 
 ## Inforation
 
-- Author: Yu-Hsien Chen (mike_chen@wistron.com)
+- Author: Yu-Hsien Mike Chen
 - Latest update: 2025/6/11
